@@ -1,0 +1,6 @@
+- [x] [[An Introduction to Ghost Imaging - Quantum and Classical]]
+	- Quantum first explanation of Ghost imaging, doesn't go too far into the weeds of compressive sensing
+- [ ]  https://terrytao.wordpress.com/2007/04/13/compressed-sensing-and-single-pixel-cameras/
+- [x]   Lane, T.J. and Ratner, D., 2020. What are the advantages of ghost imaging? Multiplexing for x-ray and electron imaging. _Optics Express_, _28_(5), pp.5898-5918.
+- [ ] Candès, E.J. and Wakin, M.B., 2008. An introduction to compressive sampling. _IEEE signal processing magazine_, _25_(2), pp.21-30.
+- [ ] Duarte, M.F., Davenport, M.A., Takhar, D., Laska, J.N., Sun, T., Kelly, K.F. and Baraniuk, R.G., 2008. Single-pixel imaging via compressive sampling. _IEEE signal processing magazine_, _25_(2), pp.83-91.
